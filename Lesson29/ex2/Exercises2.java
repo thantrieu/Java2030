@@ -1,4 +1,4 @@
-public class L29Ex2 {
+public class Exercises2 {
     public static void main(String[] args) {
         // thiết lập thông tin địa chỉ qua các getter/setter
         Address myAddress = new Address();

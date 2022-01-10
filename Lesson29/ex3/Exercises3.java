@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class L29Ex3 {
+public class Exercises3 {
     public static void main(String[] args) {
         // giả định nhập chuẩn thông tin:
         BankAccount acc = new BankAccount();

@@ -1,4 +1,4 @@
-public class L29Ex1 {
+public class Exercises1 {
     public static void main(String[] args) {
         Employee nam = new Employee(); // tạo đối tượng của lớp Employee
         var fullName = "Trần Hoàng Nam"; // gán tên
